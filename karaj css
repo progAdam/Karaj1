@@ -1,0 +1,56 @@
+body {
+	margin: 0px;
+	padding: 0px;
+    background-color: black;
+    color: #F4C69A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr {
+	width: 60%;
+}
+
+h1{
+    
+}
+
+h1, h2{
+	
+}
+
+.tartalom {
+	margin: 0px auto 0px auto;
+    background-color: #503B35;
+    border: 0px;
+    width: 800px;
+}
+
+.fejlec{
+   padding: 10px;
+}
+
+.bal {
+	width: 380px;
+    padding: 10px;
+	float: left;
+}
+
+.jobb {
+	margin-left: 380px;
+    padding: 10px;
+}
+
+.lablec {
+	clear: both;
+}
+
+.kep {
+	margin: auto;
+    display: block;
+}
+
+a {
+	color: #F26600;
+}
+.kozepre{
+    margin-left: 400px;
+}
